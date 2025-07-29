@@ -10,7 +10,7 @@ import { IoIosSettings } from "react-icons/io";
 import { IoIosLogOut } from "react-icons/io";
 import { Link } from 'react-router-dom';
 import "./style.css";
-import Home from './home';
+import Home from './Home';
 import LiveAttendance from './LiveAttendance';
 import AttendanceRecords from './attendanceRecords';
 import { useNavigate } from 'react-router-dom';
